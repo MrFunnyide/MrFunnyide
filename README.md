@@ -1,5 +1,5 @@
 ## Hey 👋, This is Aji Bayu Permadi
-[![Gmail Badge](https://img.shields.io/badge/-12050113503@students.uinsuska.ac.id-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:12050113503@students.uinsuska.ac.id)](mailto:12050113503@students.uinsuska.ac.id) 
+
 [![Github Badge](https://img.shields.io/badge/-MrFunnyide-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MrFunnyide/)](https://www.github.com/MrFunnyide/) <p align='left'>I am a student majoring in informatics engineering at the State Islamic University of Sultan Syarif Kasim Riau batch 2020</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=MrFunnyide alt=MrFunnyide /> </p>
