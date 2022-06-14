@@ -4,7 +4,6 @@
 </div>
   
 <br><p align='left'>I am a student majoring in informatics engineering at the State Islamic University of Sultan Syarif Kasim Riau batch 2020</p>
-🌱 I’m currently learning HTML CSS and JavaScript
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=MrFunnyide alt=MrFunnyide /> </p>
