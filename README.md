@@ -1,7 +1,6 @@
 <div align="center">
   <h2>Hey 👋, This is Aji Bayu Permadi</h2>
   <img src=https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif>
-  <img src=https://www.ilikesticker.com/LineStickerAnimation/W3856496-ANGRY-STICK-MAN/en>
 </div>
   
 <br><p align='left'>I am a student majoring in informatics engineering at the State Islamic University of Sultan Syarif Kasim Riau batch 2020</p>
